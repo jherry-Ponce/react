@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jherry-Ponce/static/css/main.64efb995.css",
+    "main.js": "/Jherry-Ponce/static/js/main.a616ab75.js",
+    "index.html": "/Jherry-Ponce/index.html",
+    "main.64efb995.css.map": "/Jherry-Ponce/static/css/main.64efb995.css.map",
+    "main.a616ab75.js.map": "/Jherry-Ponce/static/js/main.a616ab75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64efb995.css",
+    "static/js/main.a616ab75.js"
+  ]
+}
